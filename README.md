@@ -24,7 +24,7 @@ Hi there, welcome to my profile 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img  alt="kbudulski" src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292E&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF" height="192px"/></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbudulski&langs_count=8&layout=compact&bg_color=24292E&title_color=FFFFFF&text_color=FFFFFF" height="192px"/></a>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=false&radius=8&custom_title=Contribution%20graph)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=false&custom_title=Contribution%20graph)  
 
 <details>
   <summary>don't click</summary>
