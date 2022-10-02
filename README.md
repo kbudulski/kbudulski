@@ -12,6 +12,9 @@ Hi there, welcome to my profile 👋
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Packages:</h3>
+![Freezed](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krystian-budulski-522b63194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krystian-budulski-522b63194" height="30" width="40" /></a>
@@ -21,7 +24,6 @@ Hi there, welcome to my profile 👋
 <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kbudulski&i&date_format=j%20M%5B%20Y%5D&count_private=true&theme=dark&background=24292E" alt="kbudulski"  height="192px"/></a>
 
 <h3 align="left">Stats:</h3>
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img  alt="kbudulski" src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292E&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF" height="192px"/></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbudulski&langs_count=8&layout=compact&bg_color=24292E&title_color=FFFFFF&text_color=FFFFFF" height="192px"/></a>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=false&custom_title=Contribution%20graph)  
