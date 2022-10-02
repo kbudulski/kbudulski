@@ -27,16 +27,16 @@ I'm Chris, a software developer working at [Netguru](https://www.netguru.com), P
 <h3 align="left">Stats</h3>
 
  <!--   
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=31363F&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
  
  --->
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img  alt="kbudulski" src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292E&title_color="9acd32" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbudulski&langs_count=8&layout=compact&theme=vue-dark&bg_color=24292E" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img  alt="kbudulski" src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=31363F&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbudulski&langs_count=8&layout=compact&bg_color=31363F&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF" height="192px"/></a>
   <br/>
 </details>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kbudulski&bg_color=24292E&color=8FA5B4&line=f50057&point=8FA5B4&hide_border=true&custom_title=Contribution%20graph)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kbudulski&bg_color=31363F&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=true&custom_title=Contribution%20graph)  
