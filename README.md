@@ -17,19 +17,17 @@ Hi there, welcome to my profile 👋
 <a href="https://linkedin.com/in/krystian-budulski-522b63194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krystian-budulski-522b63194" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Streaks:</h3>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kbudulski&i&date_format=j%20M%5B%20Y%5D&count_private=true&theme=dark&background=24292E" alt="kbudulski"  height="192px"/></a>
+
 <h3 align="left">Stats:</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img  alt="kbudulski" src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292E&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF" height="192px"/></a> <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kbudulski&count_private=true&theme=dark&background=24292E" alt="kbudulski"  height="192px"/></a>
-
-<!--
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbudulski&langs_count=8&layout=compact&bg_color=31363F&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF" height="192px"/></a>
---->
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img  alt="kbudulski" src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292E&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF" height="192px"/></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbudulski&langs_count=8&layout=compact&bg_color=24292E&title_color=FFFFFF&text_color=FFFFFF" height="192px"/></a>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kbudulski&bg_color=31363F&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=true&custom_title=Contribution%20graph)  
 
-<details> 
-  <summary>Don't click</summary>
+<details>
+  <summary>don't click</summary>
   <br/>
   Hey, told you not to click! I apologize for this cat sleeping in my readme. I don't want to wake him up, so just stashed him here 😅
   <br/>
