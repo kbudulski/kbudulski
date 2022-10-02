@@ -109,6 +109,11 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
         alt="kbudulski" height="192px" /></a>
 
 <h3 align="left">Stats:</h3>
+<details>
+    <summary>3D Contributions</summary>
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="description of gif" />
+</details>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski"
         src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292E&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF"
         height="192px" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski"
@@ -127,4 +132,3 @@ Graph](https://activity-graph.herokuapp.com/graph?username=kbudulski&bg_color=24
     <br />
     <img src="https://media.giphy.com/media/ix8dIWbEovToc/giphy.gif" alt="description of gif" />
 </details>
-
