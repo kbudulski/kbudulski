@@ -6,7 +6,7 @@ I'm Chris, a software developer working at [Netguru](https://www.netguru.com), P
 
 - 🎓 on my way to get master degree in software engineering
 
-- 🌱 learning about mobile tech, how to better manage time
+- 🌱 learning about mobile tech, better ways to manage time
 
 - 💬 Ask me about [Flutter](https://flutter.dev)
 
