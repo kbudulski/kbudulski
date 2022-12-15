@@ -121,7 +121,7 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
         height="192px" /></a>
 
 ![GitHub Activity
-Graph](https://activity-graph.herokuapp.com/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=false&custom_title=Contribution%20graph)
+Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=false&custom_title=Contribution%20graph)
 
 <details>
     <summary>don't click</summary>
