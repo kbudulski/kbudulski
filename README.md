@@ -104,9 +104,14 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
             alt="krystian-budulski-522b63194" height="30" width="40" /></a>
 </p>
 
+        
+<h3 align="left">WakaTime:</h3>
+<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kbudulski&bg_color=24292E&title_color=00A0DC&icon_color=9acd32&text_color=FFFFFF"
+        alt="kbudulski" /></a>
+
 <h3 align="left">Streaks:</h3>
 <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kbudulski&i&date_format=j%20M%5B%20Y%5D&count_private=true&theme=dark&background=24292E"
-        alt="kbudulski" height="192px" /></a>
+        alt="kbudulski" /></a>
 
 <h3 align="left">Stats:</h3>
 <details>
@@ -117,7 +122,7 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski"
         src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292E&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF"
         height="192px" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=kbudulski&bg_color=24292E&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbudulski&langs_count=8&layout=compact&bg_color=24292E&title_color=FFFFFF&text_color=FFFFFF"
         height="192px" /></a>
 
 ![GitHub Activity
