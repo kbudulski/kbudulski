@@ -114,11 +114,6 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
         alt="kbudulski" /></a>
 
 <h3 align="left">Stats:</h3>
-<details>
-    <summary>3D Contributions</summary>
-    <img src="./profile-3d-contrib/profile-night-green.svg" alt="description of gif" />
-</details>
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski"
         src="https://github-readme-stats.vercel.app/api/?username=kbudulski&show_icons=true&include_all_commits=true&count_private=true&bg_color=24292E&title_color=9acd32&icon_color=9acd32&text_color=FFFFFF"
         height="192px" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kbudulski"
@@ -128,6 +123,10 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
 ![GitHub Activity
 Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=false&custom_title=Contribution%20graph)
 
+<details>
+    <summary>3D Contributions</summary>
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="description of gif" />
+</details>
 <details>
     <summary>don't click</summary>
     <br />
