@@ -120,6 +120,9 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbudulski&langs_count=8&layout=compact&bg_color=24292E&title_color=FFFFFF&text_color=FFFFFF"
         height="192px" /></a>
 
+
+<h3 align="left">Contributions:</h3>
+
 ![GitHub Activity
 Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&hide_border=false&custom_title=Contribution%20graph)
 
