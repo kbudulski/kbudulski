@@ -133,9 +133,13 @@ Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kbudulski&
 <details>
     <summary>don't click</summary>
     <br />
-    Hey, told you not to click! I apologize for this guy sleeping in my readme. I don't want to wake him up, so just
-    stashed him here 😅
+    Hey, told you not to click! I apologize for this guy sleeping here. Please be quiet and keep scrolling.
     <br />
     <br />
     <img src="https://media.giphy.com/media/ix8dIWbEovToc/giphy.gif" alt="description of gif" />
+    <br />
+    <br />
+    Since you've also reached literal bottom of the readme, <a href="https://www.youtube.com/watch?v=cklDeNS5MK8">listen to this</a> and enjoy the rest of the day :)
+    <br />
+    PS Just be careful of some 🐢🐢🐢🐢 and 🐀 running around here, in case of encounter give 🍕 
 </details>
