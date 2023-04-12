@@ -106,7 +106,7 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
 
         
 <h3 align="left">WakaTime:</h3>
-<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kbudulski&bg_color=24292E&title_color=338ee8&icon_color=9acd32&text_color=FFFFFF"
+<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kbudulski&langs_count=4&bg_color=24292E&title_color=338ee8&icon_color=9acd32&text_color=FFFFFF"
         alt="kbudulski" /></a>
 
 <h3 align="left">Streaks:</h3>
