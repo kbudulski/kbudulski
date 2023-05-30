@@ -124,7 +124,7 @@ Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
 <h3 align="left">Contributions:</h3>
 
 ![GitHub Activity
-Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&custom_title=Contribution%20graph&radius=8)
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=kbudulski&bg_color=24292E&color=FFFFFF&line=f50057&point=8FA5B4&custom_title=Contribution%20graph&radius=8)
 
 <details>
     <summary>3D Contributions</summary>
