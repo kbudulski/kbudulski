@@ -3,8 +3,8 @@
 #### I'm Chris, a software developer creating mobile apps, working remotely
 
 - 🔭 currently working at [Netguru](https://www.netguru.com) on various different projects
-- 🎓 on my way to get master degree in software engineering
-- 🌱 learning about mobile tech, better ways to manage time
+- 🎓 defended thesis, master degree in software engineering
+- 🌱 learning about mobile tech,better ways to manage time
 - 🥏 lifting weights, running, and hitting trails consistently
 - ⚡ Fun fact: I love [F1](https://f1tv.formula1.com/) (and Max V.), [Assassin's
 Creed](https://www.ubisoft.com/en-gb/game/assassins-creed)
